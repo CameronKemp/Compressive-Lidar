@@ -1,0 +1,15 @@
+{
+    "ply_file_path": "/Users/cameronkemp/Documents/university/physics_project/physics_project/royale_20231005_110844_0.ply",
+    "depth_image": {
+        "x_range": [-10, 10],
+        "y_range": [-10, 10],
+        "grid_width": 512,
+        "grid_height": 512
+    },
+    "central_region": {
+        "sz": 64
+    },
+    "noise_levels": {
+        "noise_levels": [0,5, 10, 50]
+    }
+}
